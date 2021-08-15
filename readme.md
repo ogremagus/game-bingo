@@ -18,6 +18,7 @@
 
 ### Roadmap:
 
-- automatic highlighting once a Bingo is completed
+- automatic highlighting of the row/column/diagonal once a Bingo is completed
 - data should be loaded from JSON
 - same for apperance configuration
+- support for localization (different languages)
