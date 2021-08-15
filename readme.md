@@ -1,5 +1,9 @@
 # Game Bingo Board for Prince of Persia
 
+### Screenshot:
+
+![](https://i.imgur.com/F4QbehS.png)
+
 ### Running:
 
 1. Clone the repository
