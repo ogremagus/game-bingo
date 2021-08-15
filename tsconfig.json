@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "outDir": "./.dist/",
+    "noImplicitAny": false,
+    "moduleResolution": "node",
+    "noEmitOnError": false,
+    "removeComments": false,
+    "sourceMap": true,
+    "target": "es6",
+    "jsx": "react",
+    "lib": [ "es6", "dom" ],
+    "experimentalDecorators": true
+  },
+  "include": [
+    "./src/**/*"
+  ]
+}

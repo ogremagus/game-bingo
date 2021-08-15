@@ -1,0 +1,14 @@
+{
+  "short_name": "pop.ereb.pl",
+  "name": "PoP bingo",
+  "icons": [
+    {
+      "src": "img/pop-head.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    }
+  ],
+  "start_url": "index.html",
+  "background_color": "#404040",
+  "display": "fullscreen"
+}

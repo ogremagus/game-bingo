@@ -1,0 +1,2 @@
+Options -Indexes
+ErrorDocument 403 https://pop.ereb.pl/errors/blank.html

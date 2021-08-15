@@ -1,0 +1,24 @@
+.sectionName {
+    display: none;
+}
+
+div.userInfo .userNames {
+    display: none;
+}
+
+div.siteLogo .siteName {
+    display: none;
+}
+
+/* div.sectionButton {
+    width: 10%;
+}
+
+div.navigationBar {
+    justify-content: space-around;
+}
+
+div.stretcher {
+    flex-grow: 0.5;
+} */
+
